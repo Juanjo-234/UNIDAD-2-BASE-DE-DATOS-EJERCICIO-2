@@ -9,4 +9,5 @@ El sistema debe permitir registrar:
 - Pasajeros: datos de las personas que viajan en la aerolínea.
 - Reservas: relacionan a cada pasajero con un vuelo y un asiento determinado.
 También se deben definir las relaciones y cardinalidades entre las entidades, teniendo en cuenta que un avión puede realizar muchos vuelos, que cada vuelo en una fecha determinada utiliza un solo avión y que existe una relación muchos a muchos entre vuelos y empleados.
-![Uploading EJERCICIO 2.drawio.png…]()
+<img width="2492" height="1042" alt="EJERCICIO 2 drawio" src="https://github.com/user-attachments/assets/9f0002e7-0b43-4f3c-888d-f4353aefe944" />
+
